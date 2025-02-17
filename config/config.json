@@ -1,0 +1,18 @@
+{
+    "base_url": "https://reqres.in/api",
+    "timeout": 30,
+    "environments": {
+        "dev": {
+            "base_url": "https://reqres.in/api",
+            "api_key": ""
+        },
+        "staging": {
+            "base_url": "https://reqres.in/api",
+            "api_key": ""
+        },
+        "prod": {
+            "base_url": "https://reqres.in/api",
+            "api_key": ""
+        }
+    }
+} 
